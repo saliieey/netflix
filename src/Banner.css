@@ -1,0 +1,19 @@
+.banner_content{
+    padding-top: 400px;
+    padding-left: 3rem;
+    width: 45rem;
+    background: transparent;
+}
+
+.banner_content h1{
+    font-size: 3.5rem;
+    background: transparent;
+}
+.banner_content h2{
+    font-size: 1.5rem;
+    background: transparent;
+    padding-top: 1rem;
+}
+.button{
+    background-color: transparent;
+}
